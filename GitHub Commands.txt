@@ -102,3 +102,9 @@ Usage: git stash pop
 Usage: git stash list
 # This command discards the most recently stashed changeset.
 Usage: git stash drop
+
+20. git log --oneline
+# The oneline option is used to display the output as one commit per line.
+
+21. git reset [git commit id] 
+# This command used to undo local changes to the state of a Git repo.  e.g git reset 9ef9173
